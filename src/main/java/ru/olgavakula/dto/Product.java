@@ -9,6 +9,7 @@ import lombok.*;
 @With
 @ToString
 
+
 public class Product {
     Integer id;
     String title;
